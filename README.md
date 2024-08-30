@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niniolajanet
-- 👀 I’m interested in Data Analysis, Web development and Game development
+- 👀 I’m interested in Cybersecurity, Web development and Game development
 - 🌱 I’m currently learning all of the above
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
